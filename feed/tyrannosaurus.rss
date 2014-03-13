@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" >
+<channel>
+<title>Thomas Guest</title>
+<link>http://tag.wordaligned.org</link>
+<description>two wheels good</description>
+<dc:creator>tag@wordaligned.org</dc:creator>
+<language>en-gb</language>
+<item>
+<title>Alex&#8217;s Tyrannosauruses</title>
+<description>&lt;p&gt;Alex is four years old and into dinosaurs. Here&amp;#8217;s a picture of a mummy
+   tyrannosaurus, a daddy tyrannosaurus, six tyrannosaurus eggs and one
+   tyrannosaurus egg which has hatched.
+&lt;/p&gt;
+&lt;img src="http://tag.wordaligned.org/files/tyrannosaurus_family.jpg" width="100%" alt="Tyrannosaurus family"/&gt;</description>
+<dc:date>2006-10-08</dc:date>
+<guid>http://tag.wordaligned.org/posts/a-picture-of-tyrannosauruses.html</guid>
+<author>tag@wordaligned.org (Thomas Guest)</author>
+<link>http://tag.wordaligned.org/posts/a-picture-of-tyrannosauruses.html</link>
+<category>Tyrannosaurus</category>
+</item>
+
+</channel>
+</rss>
